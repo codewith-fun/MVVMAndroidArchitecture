@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MVVMAndroidArchitecture</string>
+
+    <string name="network_error">No internet connection</string>
+    <string name="password_error">Wrong password</string>
+    <string name="field_error">Field are incomplete</string>
+    <string name="user_error">User not found</string>
+    <string name="search_error">Search error</string>
 </resources>
