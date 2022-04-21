@@ -15,6 +15,9 @@ languages:
 - kotlin
 - xml
 
+- [x] #8
+- [ ] https://github.com/codewith-fun/MVVMAndroidArchitecture/issues/8
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 ~~~~
